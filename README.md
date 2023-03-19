@@ -1,11 +1,11 @@
 <h1 align="center">Syxpi</h1>
 <h3 align="center">Mon Profil Github. Vous Saurez tout de moi.</h3>
 
-- 👨‍💻 Dévloppeur & Fondateur de **Explodium & Baysic-Life**
+- 👨‍💻 Dévloppeur & Fondateur de **Explodium** & **Baysic-Life**
 
 - 📖 Je suis entrain d'apprendre le **Lua,HTML,CSS. Je vais voir pour m'attaquer au Koltin.**
 
-- 🎮 Entrain de dévlopper un Jeu **via L'Unreal Engine 4**,entrain de dévlopper **des Plugins & Mods** sur Minecraft
+- 🎮 Entrain de dévlopper un Jeu via **L'Unreal Engine 4**,entrain de dévlopper **des Plugins & Mods** sur Minecraft
 
 - 💻 Je sais faire du **C++,Du C#,Du Python,Du Java et autre.**
 
