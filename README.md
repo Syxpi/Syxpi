@@ -11,6 +11,8 @@
 
 - 💡 Fun fact **J'ai actuellement 15 ans,et j'sais faire du dévloppement depuis 2 ans**
 
+- 💡 Fun fact 2 **Je Bosse seulement pour moi,ou pour mes servs. Donc c'est tout a fait normal de ne pas trouver de vrai repo crée par moi même**
+
 - ⛔ Je ne travaille pour personne,donc merci de ne pas demander "Es-ce que tu peut me faire tel ou tel truc stp ?"
 
 <h3 align="left">Mes Réseaux Sociaux:</h3>
