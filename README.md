@@ -9,7 +9,7 @@
 
 - 💻 Je sais faire du **C++,Du C#,Du Python,Du Java et autre.**
 
-- 💡 Fun fact **J'ai actuellement 15 ans,et j'sais faire du dévloppement depuis 2 ans**
+- 💡 Fun fact **J'ai actuellement 16 ans,et j'sais faire du dévloppementdepuis 2 ans**
 
 - 💡 Info Importante **Je Bosse seulement pour moi,ou pour mes servs. Donc c'est tout a fait normal de ne pas trouver de vrai repo crée par moi même**
 
