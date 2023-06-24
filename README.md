@@ -1,13 +1,13 @@
 <h1 align="center">Syxpi</h1>
 <h3 align="center">Mon Profil Github. Vous Saurez tout de moi.</h3>
 
-- 👨‍💻 Dévloppeur & Fondateur de **@ExplodiumFr** 
+- 👨‍💻 Ex-Dévloppeur & Ex-Fondateur de **@ExplodiumFr** (Le Projet est mort actuellement) 
 
 - 📖 Je suis entrain d'apprendre le **Lua,HTML,CSS. Je vais voir pour m'attaquer au Koltin.**
 
-- 🎮 Entrain de dévlopper un Jeu via **L'Unreal Engine 4**,entrain de dévlopper **des Plugins & Mods** sur Minecraft
+- 🎮 Entrain de dévlopper un Jeu via **L'Unreal Engine 4**, entrain de dévlopper **des Plugins & Mods** sur Minecraft
 
-- 💻 Je sais faire du **C++,Du C#,Du Python,Du Java et autre.**
+- 💻 Je sais faire du **C++, Du C#, Du Python, Du Java et autre.**
 
 - 💡 Fun fact **J'ai actuellement 16 ans,et j'sais faire du dévloppementdepuis 2 ans**
 
