@@ -7,7 +7,7 @@
 
 - 🎮 Entrain de dévlopper **des Plugins & Mods** sur Minecraft
 
-- 💻 Je sais faire du **C++, Du C#, Du Python, Du Java et autre.**
+- 💻 Je sais faire du **C++, Du Java et autre.**
 
 - 💡 Fun fact **J'ai actuellement 16 ans,et j'sais faire du dévloppement depuis 3 ans**
 
