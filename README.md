@@ -27,5 +27,3 @@
 
 
 [![Profil Discord](https://lanyard.cnrad.dev/api/361526553940721684)](https://discord.com/users/361526553940721684)
-
-[![wakatime](https://wakatime.com/badge/user/82e1aed9-c281-4a7b-9909-1dfb8022b027.svg1)](https://wakatime.com/@82e1aed9-c281-4a7b-9909-1dfb8022b027)
