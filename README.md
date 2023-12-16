@@ -1,5 +1,5 @@
 <h1 align="center">Syxpi</h1>
-<h3 align="center">Mon Profil Github. Vous Saurez tout de moi.</h3>
+<h3 align="center">Mon Profil Github.</h3>
 
 - 👨‍💻 Ex-Dévloppeur & Ex-Fondateur de **Explodium**
 
