@@ -11,7 +11,7 @@
 
 - ⛔ All my projects are private except Auto_dl. **because this program is useful.**
 
-- 📫 How to reach me **mailto:syxpikiller@gmail.com**
+- 📫 How to reach me **syxpikiller@gmail.com**
 
 - ⚡ Fun fact **I'am cringe asf. (for real)**
 
