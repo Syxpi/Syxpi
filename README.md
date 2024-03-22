@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I'am cringe asf. (for real)**
 
+- 🖥️ Owner of a Dell PowerEdge R710. The latter allows me to run my site, and lots of in-house services. (and the tests for Auto_dl are carried out above)
+
 <h3 align="left">My Social Networks: </h3>
 <p align="left">
 <a href="https://twitter.com/syxpi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syxpi_" height="30" width="40" /></a>
