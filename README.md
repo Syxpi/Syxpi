@@ -9,9 +9,7 @@
 
 - 👨‍💻 My Personnal Website is [https://syxpi.fr](https://syxpi.fr) [The link is maybe dead at this moment]
 
-- ⛔ All my projects are private except Auto_dl. **because this program is useful.**
-
-- 📫 How to reach me **syxpikiller@gmail.com**
+- ⛔ All my projects are private except Auto_dl. **because this program is useful.** (i think)
 
 - ⚡ Fun fact **I'am cringe asf. (for real)**
 
