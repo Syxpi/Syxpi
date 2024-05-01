@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syxpi&label=Profile%20views&color=0e75b6&style=flat" alt="syxpi" /> </p>
 
-- 🔭 I Created [Auto_dl](https://github.com/Syxpi/auto_dl)
-
-- 🌱 I’m currently learning **CSS, HTML5, JavaScript (i hate this language), Assembly language, Lua, Bash (for Auto_dl) and other else.**
+- 🌱 I’m currently learning **CSS, HTML5, JavaScript (i hate this language), Assembly language, Lua, Bash and other else.**
 
 - 👨‍💻 My Personnal Website is [https://syxpi.fr](https://syxpi.fr) [The link is maybe dead at this moment]
 
@@ -13,7 +11,7 @@
 
 - ⚡ Fun fact **I'am cringe asf. (for real)**
 
-- 🖥️ Owner of a Dell PowerEdge R710. The latter allows me to run my site, and lots of in-house services. (and the tests for Auto_dl are carried out above)
+- 🖥️ Owner of a Dell PowerEdge R710. The latter allows me to run my site, and lots of in-house services.
 
 - 📱I test all the devices that come my way, you can find everything on my Geekbench Profile -> [Geekbench Profile](https://browser.geekbench.com/user/480500)
 <h3 align="left">My Social Networks: </h3>
