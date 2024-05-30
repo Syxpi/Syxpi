@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I'am cringe asf. (for real)**
 
-- 🖥️ Owner of a Dell PowerEdge R710. The latter allows me to run my site, and lots of in-house services.
+- 🖥️ Owner of a Dell PowerEdge R710. This server allows me to run my site, and lots of in-house services.
 
 - 📱I test all the devices that come my way, you can find everything on my Geekbench Profile -> [Geekbench Profile](https://browser.geekbench.com/user/480500)
 <h3 align="left">My Social Networks: </h3>
