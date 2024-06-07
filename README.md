@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syxpi&label=Profile%20views&color=0e75b6&style=flat" alt="syxpi" /> </p>
 
-- 🌱 I’m currently learning **CSS, HTML5, JavaScript (i hate this language), Assembly language, Lua, Bash and other else.**
+- 🌱 I’m currently learning **CSS, HTML5, JavaScript, Assembly language, Lua, Bash and other else.**
 
-- 👨‍💻 My Personnal Website is [https://syxpi.fr](https://syxpi.fr) [The link is maybe dead at this moment]
+- 👨‍💻 My Personnal Website is [https://syxpi.fr](https://syxpi.fr) 
 
-- ⛔ All my projects are private except Auto_dl. **because this program is useful.** (i think)
+- ⛔ All my projects are private.
 
 - ⚡ Fun fact **I'am cringe asf. (for real)**
 
